@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-one",
+  "version": "1.0.0",
+  "description": "this is node tutorial files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habib-gm/nodejs-tutorial.git"
+  },
+  "author": "Habib Gemmechu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habib-gm/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/habib-gm/nodejs-tutorial#readme"
+}
